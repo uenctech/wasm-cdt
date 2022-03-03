@@ -1,0 +1,12 @@
+*.a
+*.bak
+*.dirstamp
+*.log
+*.o
+*.Po
+
+
+.DS_Store
+
+build
+.vscode/
